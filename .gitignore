@@ -1,0 +1,16 @@
+# Untracked files
+*.pdf
+*.pth
+*.pt
+*.npy
+*.npz
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.mp4
+# Untracked directories
+results/
+data/
